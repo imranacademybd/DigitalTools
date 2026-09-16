@@ -7,9 +7,143 @@
     <link>https://imranacademybd.github.io/DigitalTools/blog/</link>
     <description>Latest posts from DigitalTools</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:24:55 GMT</lastBuildDate>
     <atom:link href="https://imranacademybd.github.io/DigitalTools/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>How to Enable and Use Flag Emojis on Windows 11: Simple Steps</title>
+      <link>https://imranacademybd.github.io/DigitalTools/windows-tips/windows-11-flag-emojis.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/windows-tips/windows-11-flag-emojis.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:24:55 GMT</pubDate>
+      <description>How to Enable and Use Flag Emojis on Windows 11
+
+
+If you tried to add a flag emoji (like 🇫🇷 or 🇺🇸) in Windows 11 and only saw “FR” or “US” instead of the colorful image, you’re not alone. This isn’t a glitch, Windows simply doesn’t show country flag emojis the way phones and Macs do. Here’s what’s actually happening, why, and how to work around it if you need real flags in your messages or documents.
+
+
+
+
+Why You Can’t See Flag Emojis on Windows 11
+
+
+Windows 11 does not have built-in support</description>
+      <category>Windows Tips</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Unlock Flag Emojis on Windows 11: Easy Fixes for Vibrant Chats!</title>
+      <link>https://imranacademybd.github.io/DigitalTools/windows-tips/flag-emojis-windows11-fix.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/windows-tips/flag-emojis-windows11-fix.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:24:39 GMT</pubDate>
+      <description>Why Flag Emojis Don’t Display Properly on Windows 11, And What You Can Actually Do About It
+
+
+If you’ve ever tried dropping a flag emoji into an email or doc on Windows 11, only to see mysterious letter codes (like “US” or “JP”) or blank squares, you’re definitely not alone. It feels like something must be broken, right? I used to think so too, and I spent way too long hunting for some hidden fix before realizing the real reason: This is exactly how Microsoft designed it.
+
+
+
+
+The Real Reason: Mi</description>
+      <category>Windows Tips</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Flag Emoji Support on Windows 11 vs macOS and Mobile Devices Analyzed</title>
+      <link>https://imranacademybd.github.io/DigitalTools/tech-comparisons/flag-emoji-support-windows11-macos-mobile.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/tech-comparisons/flag-emoji-support-windows11-macos-mobile.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:24:26 GMT</pubDate>
+      <description>How Flag Emoji Support on Windows 11 Compares to macOS and Mobile Devices: What Actually Works
+
+
+Flag emojis are a quick way to signal countries, teams, or regions, at least in theory. In practice, if you’re working on Windows 11, you’ve probably noticed that flag emojis don’t show up at all like you might expect. Instead of colorful banners, you get “US” or “DE” in gray boxes. Meanwhile, the same message looks perfect on a MacBook, an iPhone, or almost any Android device.
+
+
+This mismatch isn’t</description>
+      <category>Tech Comparisons</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Alternative Ways to Insert Flag Emojis on Windows 11 Efficiently</title>
+      <link>https://imranacademybd.github.io/DigitalTools/windows-tips/windows-11-flag-emojis-alternatives.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/windows-tips/windows-11-flag-emojis-alternatives.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:23:50 GMT</pubDate>
+      <description>Alternative Ways to Insert Flag Emojis on Windows 11 (With Fewer Headaches)
+
+
+If you’ve ever tried putting a flag emoji into a document on Windows 11, maybe 🇯🇵 for Japan, or 🇧🇷 for Brazil, you know it can be surprisingly tricky. Sometimes you end up with “JP” instead of a flag, or just an empty box. After bumping into this problem more than once myself, I realized that how you add flag emojis really depends on where they’ll end up and who’s looking. Here’s what actually works, what doesn’t,</description>
+      <category>Windows Tips</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Troubleshooting Common Flag Emoji Issues on Windows 11: Quick Fixes</title>
+      <link>https://imranacademybd.github.io/DigitalTools/windows-tips/flag-emoji-issues-windows11.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/windows-tips/flag-emoji-issues-windows11.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:23:10 GMT</pubDate>
+      <description>Why You See Letters Instead of Flag Emojis on Windows 11
+
+
+If you’ve ever typed what should be a flag emoji on your Windows 11 computer and ended up with something like “US” or “DE” instead, you’re not missing a setting and your system isn’t broken. Microsoft’s emoji font, Segoe UI Emoji, just doesn’t draw country flags. It shows the two-letter country code instead. This is true everywhere in Windows outside your browser, and it’s not something an update or hidden tweak will fix.
+
+
+Quick check:</description>
+      <category>Windows Tips</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Customizing and Creating Your Own Flag Emojis on Windows 11</title>
+      <link>https://imranacademybd.github.io/DigitalTools/windows-customization/custom-flag-emojis-windows11.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/windows-customization/custom-flag-emojis-windows11.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:22:56 GMT</pubDate>
+      <description>Custom Flag Emojis on Windows 11: The Realistic Path That Actually Works
+
+
+If you’ve ever tried to add your own flag emoji on Windows 11, maybe for your hometown, a unique identity, or just to liven up a group chat, you’ve probably hit the same brick wall I did. The first time I tried, I was sure I’d missed some secret setting. After 45 minutes poking through the emoji picker and reading sketchy registry hack articles, it finally sank in: if it’s not part of the official Unicode emoji set, there</description>
+      <category>Windows Customization</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>Unlock Clarity: Your Easy Guide to the Alarm Monitoring Cost</title>
+      <link>https://imranacademybd.github.io/DigitalTools/home-security/alarm-monitoring-cost-calculator.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/home-security/alarm-monitoring-cost-calculator.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:22:46 GMT</pubDate>
+      <description>The Alarm Monitoring Cost Calculator Trap: Why Most Tools Leave You Guessing
+
+
+If you’re searching for an alarm monitoring cost calculator, you probably want a quick answer. I’ve been there, staring at a grid of prices and thinking I’d cracked the code, only to find out too late that what looked like a bargain was full of hidden costs. Here’s what most online calculators skip, and how to build a clear picture for yourself.
+
+
+
+
+The “Low Monthly Fee” Illusion: What Gets Left Out
+
+
+Every calculator</description>
+      <category>Home Security</category>
+      <author>Danial Rafflestag</author>
+    </item>
+
+    <item>
+      <title>CCTV Wiring Cost Calculator: Easily Estimate Your Installation Budget</title>
+      <link>https://imranacademybd.github.io/DigitalTools/home-security/cctv-wiring-cost-calculator.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/home-security/cctv-wiring-cost-calculator.html</guid>
+      <pubDate>Wed, 16 Sep 2026 20:22:18 GMT</pubDate>
+      <description>CCTV Wiring Cost Calculator: What Actually Works (and Where Most Go Wrong)
+
+
+If you search for a “CCTV wiring cost calculator,” you’ll find plenty of online tools. Most give you a number that seems precise, but rarely matches what you’ll actually pay. After years of helping people budget for security camera installs, I can tell you the real costs depend on details those calculators skip, especially the true cable path and the labor needed to run it.
+
+
+Here’s how to get a realistic estimate witho</description>
+      <category>Home Security</category>
+      <author>Danial Rafflestag</author>
+    </item>
 
     <item>
       <title>CCTV Maintenance Cost Calculator: Estimate Your Real Annual Expenses</title>
