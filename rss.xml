@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DigitalTools</title>
+    <link>https://imranacademybd.github.io/DigitalTools/blog/</link>
+    <description>Latest posts from DigitalTools</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2026 05:35:45 GMT</lastBuildDate>
+    <atom:link href="https://imranacademybd.github.io/DigitalTools/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Coming soon</title>
+      <link>https://imranacademybd.github.io/DigitalTools/news/coming-soon.html</link>
+      <guid isPermaLink="true">https://imranacademybd.github.io/DigitalTools/news/coming-soon.html</guid>
+      <pubDate>Wed, 09 Sep 2026 20:30:38 GMT</pubDate>
+      <description>This is waltarmakeup.com, a brand new site by Danial Rafflestag that&apos;s just getting started. Things will be up and running here shortly, but you can subscribe in the meantime if you&apos;d like to stay up to date and receive emails when new content is published!</description>
+      <category>News</category>
+      <author>Danial Rafflestag</author>
+    </item>
+  </channel>
+</rss>
